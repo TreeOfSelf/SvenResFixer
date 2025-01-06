@@ -9,11 +9,11 @@
   
 ![image](https://github.com/user-attachments/assets/3309a458-96a3-4aac-8b12-35d258f4326c)
 
-Well look no further, this program will automatically clean up all of the .res files in your maps folder for Sven Co-op, leaving you with perfectly working .res files for your fastdl server!
+Well look no further, this script will automatically clean up all of the .res files in your maps folder for Sven Co-op, leaving you with perfectly working .res files for your fastdl server!
 
 ## Running
 
-Simply run `python sven_res_fixer.py` and enter the maps folder you would like it to run on! The program will take care of the rest and print its progress.
+Simply run `python sven_res_fixer.py` and enter the maps folder you would like it to run on! The script will take care of the rest and print its progress.
 
 ## License
 
